@@ -1,1 +1,1 @@
-# Learn-git
+# Learn-git with a buddy
